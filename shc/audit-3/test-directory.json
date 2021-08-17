@@ -15,6 +15,11 @@
     {
       "iss": "https://raw.githubusercontent.com/christianpaquin/void/main/shc/audit-3/test-issuer-5",
       "name": "Test issuer 1"
+    },
+    {
+      "iss": "https://raw.githubusercontent.com/christianpaquin/void/main/shc/audit-3/unreachable",
+      "name": "Test issuer 6"
     }
+
   ]
 }
