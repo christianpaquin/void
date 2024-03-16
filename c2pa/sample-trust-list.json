@@ -1,14 +1,14 @@
 {
     "name": "Sample Trust List",
-    "url": "https://...", 
+    "url": "https://raw.githubusercontent.com/christianpaquin/void/main/c2pa/sample-trust-list.json", 
     "description": "A trust list for sample issuers",
-    "website": "",
-    "last_updated": "",
+    "website": "https://github.com/christianpaquin/void",
+    "last_updated": "2024-03-16T03:47:34Z",
     "signers": [
         {
             "id": "Christian Paquin",
             "display_name": "Christian Paquin",
-            "contact": "christianpaquin.github.io/contact",
+            "contact": "https://christianpaquin.github.io/about/",
             "jwks_url": "christianpaquin.github.io"
         },
         {
