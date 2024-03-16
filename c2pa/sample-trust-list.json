@@ -9,13 +9,13 @@
             "id": "Christian Paquin",
             "display_name": "Christian Paquin",
             "contact": "https://christianpaquin.github.io/about/",
-            "jwks_url": "christianpaquin.github.io"
+            "jwks_url": "https://christianpaquin.github.io"
         },
         {
             "id": "Example issuer",
             "display_name": "Example",
-            "contact": "example.com/contact",
-            "jwks_url": "example.com"
+            "contact": "https://example.com/contact",
+            "jwks_url": "https://example.com"
         }
     ]
 }
