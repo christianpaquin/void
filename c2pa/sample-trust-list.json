@@ -1,0 +1,21 @@
+{
+    "name": "Sample Trust List",
+    "url": "https://...", 
+    "description": "A trust list for sample issuers",
+    "website": "",
+    "last_updated": "",
+    "signers": [
+        {
+            "id": "Christian Paquin",
+            "display_name": "Christian Paquin",
+            "contact": "christianpaquin.github.io/contact",
+            "jwks_url": "christianpaquin.github.io"
+        },
+        {
+            "id": "Example issuer",
+            "display_name": "Example",
+            "contact": "example.com/contact",
+            "jwks_url": "example.com"
+        }
+    ]
+}
