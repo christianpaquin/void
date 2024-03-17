@@ -1,6 +1,6 @@
 {
     "name": "Sample Trust List",
-    "url": "https://raw.githubusercontent.com/christianpaquin/void/main/c2pa/sample-trust-list.json", 
+    "download_url": "https://raw.githubusercontent.com/christianpaquin/void/main/c2pa/sample-trust-list.json", 
     "description": "A trust list for sample issuers",
     "website": "https://github.com/christianpaquin/void",
     "last_updated": "2024-03-16T03:47:34Z",
